@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>Solution_15</Name>
+        <Assembly>Solution_15/Solution_15.dll</Assembly>
+        <AddInId>466F5260-3FF4-4062-AECA-128D91FF4301</AddInId>
+        <FullClassName>Solution_15.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+</RevitAddIns>
